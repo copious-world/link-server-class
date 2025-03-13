@@ -1,12 +1,12 @@
 {
   "name": "link-server-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "@polka/send-type": "^0.5.2",
     "categorical-handlers": "^0.4.10 ",
-    "copious-registry": "^0.5.7",
-    "copious-little-searcher": "^0.5.8",
+    "copious-registry": "^0.5.8",
+    "copious-little-searcher": "^0.5.9",
     "middie": "^7.1.0",
     "month-utils": "^0.8.2",
     "polka": "^0.5.2"
@@ -30,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/copious-world/link-server-class/issues"
   },
-  "homepage": "https://github.com/copious-world/link-server-class#readme",
+  "homepage": "https://github.com/copious-world/link-server-class#readme"
 }

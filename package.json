@@ -1,12 +1,14 @@
 {
   "name": "link-server-class",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "dependencies": {
     "@polka/send-type": "^0.5.2",
-    "categorical-handlers": "^0.7.7",
-    "copious-registry": "^0.5.8",
+    "body-parser": "^2.2.0",
+    "categorical-handlers": "^0.7.8",
     "copious-little-searcher": "^0.5.9",
+    "copious-registry": "^0.5.9",
+    "cors": "^2.8.5",
     "middie": "^7.1.0",
     "month-utils": "^0.8.2",
     "polka": "^0.5.2"
@@ -16,8 +18,8 @@
     "url": "git+https://github.com/copious-world/link-server-class.git"
   },
   "funding": {
-    "type" : "GitHub Sponsors",
-    "url" : "https://github.com/sponsors/copious-world"
+    "type": "GitHub Sponsors",
+    "url": "https://github.com/sponsors/copious-world"
   },
   "keywords": [
     "Simplified",

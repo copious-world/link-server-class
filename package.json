@@ -1,6 +1,6 @@
 {
   "name": "link-server-class",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "main": "index.js",
   "dependencies": {
     "@polka/send-type": "^0.5.2",

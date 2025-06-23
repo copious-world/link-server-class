@@ -6,6 +6,6 @@ const ServiceEntryWatcher = require('./lib/app_dir_watcher')
 
 
 module.exports = GeneralLinkServer
-module.exports = MetaDataEndpointServer
+module.exports.MetaDataEndpointServer = MetaDataEndpointServer
 module.exports.RecordSearchApp = RecordSearchApp
 module.exports.ServiceEntryWatcher = ServiceEntryWatcher

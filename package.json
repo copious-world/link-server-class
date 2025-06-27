@@ -1,14 +1,14 @@
 {
   "name": "link-server-class",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "main": "index.js",
   "dependencies": {
     "@polka/send-type": "^0.5.2",
     "body-parser": "^2.2.0",
-    "categorical-handlers": "^0.7.8",
+    "categorical-handlers": "^0.7.9",
     "com_link_manager": "^0.1.14",
-    "copious-little-searcher": "^0.6.2",
-    "copious-registry": "^0.6.0",
+    "copious-little-searcher": "^0.6.3",
+    "copious-registry": "^0.6.1",
     "cors": "^2.8.5",
     "middie": "^7.1.0",
     "month-utils": "^0.8.2",
